@@ -1,4 +1,4 @@
-FROM fkfk/vipstarcoin:bitcore-1.0.0-beta
+FROM fkfk/vipstarcoin:bitcore
 
 RUN apt-get -y update && apt-get -y install curl
 
